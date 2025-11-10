@@ -1,0 +1,247 @@
+[ {
+  "id" : "cus7c926fb4-1148-4438-9dec-03faa3dfecfa810882495967100",
+  "identification" : {
+    "idType" : "NEWNRIC",
+    "idNumber" : "********5667"
+  },
+  "details" : {
+    "displayName" : "John Doe",
+    "gender" : "MALE",
+    "dateOfBirth" : "1990/01/01",
+    "email" : "test@test.com",
+    "nationality" : null,
+    "race" : null,
+    "address" : [ {
+      "id" : "5",
+      "primaryAddress" : "true",
+      "line1" : "18 JALAN BUKIT NANAS",
+      "line2" : null,
+      "line3" : null,
+      "postalCode" : "50250",
+      "city" : "KUALA LUMPUR",
+      "state" : "W.P. KUALA LUMPUR",
+      "country" : "MALAYSIA"
+    } ]
+  },
+  "contact" : [ {
+    "id" : "10",
+    "type" : "PHONE",
+    "value" : "60123456789"
+  }, {
+    "id" : "11",
+    "type" : "EMAIL",
+    "value" : "test@test.com"
+  } ],
+  "roles" : [ {
+    "code" : "PROFILES",
+    "description" : "My Profile"
+  }, {
+    "code" : "TRANSACTION",
+    "description" : "TRANSACTION"
+  } ]
+}, {
+  "id" : "cuseeef5c04-a446-4e34-8347-0c716fe7cb4f789415595626700",
+  "identification" : {
+    "idType" : "NEWNRIC",
+    "idNumber" : "********5667"
+  },
+  "details" : {
+    "displayName" : "John Cleark",
+    "gender" : "MALE",
+    "dateOfBirth" : "1970/12/21",
+    "email" : "John@test.com",
+    "nationality" : "Malaysian",
+    "race" : "Chinese",
+    "address" : [ {
+      "id" : "5",
+      "primaryAddress" : "true",
+      "line1" : "18 JALAN BUKIT NANAS",
+      "line2" : null,
+      "line3" : null,
+      "postalCode" : "50250",
+      "city" : "KUALA LUMPUR",
+      "state" : "W.P. KUALA LUMPUR",
+      "country" : "MALAYSIA"
+    } ]
+  },
+  "contact" : [ {
+    "id" : "10",
+    "type" : "PHONE",
+    "value" : "60167456789"
+  }, {
+    "id" : "11",
+    "type" : "EMAIL",
+    "value" : "Cleark@gmail.com"
+  } ],
+  "roles" : [ {
+    "code" : "PROFILES",
+    "description" : "My Profile"
+  }, {
+    "code" : "TRANSACTION",
+    "description" : "TRANSACTION"
+  } ]
+}, {
+  "id" : "cus7c15cac0-387b-4dcd-94ed-28acb675955b434938194859520",
+  "identification" : {
+    "idType" : "NEWNRIC",
+    "idNumber" : "********5667"
+  },
+  "details" : {
+    "displayName" : "Kobe Cleark",
+    "gender" : "MALE",
+    "dateOfBirth" : "1970/12/21",
+    "email" : "Kobe@test.com",
+    "nationality" : "Malaysian",
+    "race" : "Chinese",
+    "address" : [ {
+      "id" : "5",
+      "primaryAddress" : "true",
+      "line1" : "18 JALAN BUKIT NANAS",
+      "line2" : null,
+      "line3" : null,
+      "postalCode" : "50250",
+      "city" : "KUALA LUMPUR",
+      "state" : "W.P. KUALA LUMPUR",
+      "country" : "MALAYSIA"
+    } ]
+  },
+  "contact" : [ {
+    "id" : "10",
+    "type" : "PHONE",
+    "value" : "60167456789"
+  }, {
+    "id" : "11",
+    "type" : "EMAIL",
+    "value" : "Cleark@gmail.com"
+  } ],
+  "roles" : [ {
+    "code" : "PROFILES",
+    "description" : "My Profile"
+  }, {
+    "code" : "TRANSACTION",
+    "description" : "TRANSACTION"
+  } ]
+}, {
+  "id" : "cus525513ad-cc26-4bf9-bafc-ae6a8b860f8f-714341802065920",
+  "identification" : {
+    "idType" : "NEWNRIC",
+    "idNumber" : "********6837"
+  },
+  "details" : {
+    "displayName" : "Wreker Smith",
+    "gender" : "MALE",
+    "dateOfBirth" : "1982/01/19",
+    "email" : "WS@test.com",
+    "nationality" : "Canadian",
+    "race" : "Chinese",
+    "address" : [ {
+      "id" : "5",
+      "primaryAddress" : "true",
+      "line1" : "18 JALAN BUKIT NANAS",
+      "line2" : null,
+      "line3" : null,
+      "postalCode" : "50250",
+      "city" : "KUALA LUMPUR",
+      "state" : "W.P. KUALA LUMPUR",
+      "country" : "Malaysia"
+    } ]
+  },
+  "contact" : [ {
+    "id" : "10",
+    "type" : "PHONE",
+    "value" : "60167018789"
+  }, {
+    "id" : "11",
+    "type" : "EMAIL",
+    "value" : "ws@gmail.com"
+  } ],
+  "roles" : [ {
+    "code" : "Electrician",
+    "description" : "Electrician"
+  }, {
+    "code" : "Father",
+    "description" : "Father"
+  } ]
+}, {
+  "id" : "cusdd6fa44f-0a15-42e0-846d-681da27a2d38319678083166976",
+  "identification" : {
+    "idType" : "NEWNRIC",
+    "idNumber" : "********5667"
+  },
+  "details" : {
+    "displayName" : "Kobe Cleark",
+    "gender" : "MALE",
+    "dateOfBirth" : "1970/12/21",
+    "email" : "Kobe@test.com",
+    "nationality" : "Malaysian",
+    "race" : "Chinese",
+    "address" : [ {
+      "id" : "5",
+      "primaryAddress" : "true",
+      "line1" : "18 JALAN BUKIT NANAS",
+      "line2" : null,
+      "line3" : null,
+      "postalCode" : "50250",
+      "city" : "KUALA LUMPUR",
+      "state" : "W.P. KUALA LUMPUR",
+      "country" : "MALAYSIA"
+    } ]
+  },
+  "contact" : [ {
+    "id" : "10",
+    "type" : "PHONE",
+    "value" : "60167456789"
+  }, {
+    "id" : "11",
+    "type" : "EMAIL",
+    "value" : "Cleark@gmail.com"
+  } ],
+  "roles" : [ {
+    "code" : "PROFILES",
+    "description" : "My Profile"
+  }, {
+    "code" : "TRANSACTION",
+    "description" : "TRANSACTION"
+  } ]
+}, {
+  "id" : "cus28af6a89-e6de-4fba-bf48-f326c2bc23e2198620429401088",
+  "identification" : {
+    "idType" : "NEWNRIC",
+    "idNumber" : "********5667"
+  },
+  "details" : {
+    "displayName" : "Kobe Cleark",
+    "gender" : "MALE",
+    "dateOfBirth" : "1970/12/21",
+    "email" : "Kobe@test.com",
+    "nationality" : "Malaysian",
+    "race" : "Chinese",
+    "address" : [ {
+      "id" : "5",
+      "primaryAddress" : "true",
+      "line1" : "18 JALAN BUKIT NANAS",
+      "line2" : null,
+      "line3" : null,
+      "postalCode" : "50250",
+      "city" : "KUALA LUMPUR",
+      "state" : "W.P. KUALA LUMPUR",
+      "country" : "MALAYSIA"
+    } ]
+  },
+  "contact" : [ {
+    "id" : "10",
+    "type" : "PHONE",
+    "value" : "60167456789"
+  }, {
+    "id" : "11",
+    "type" : "EMAIL",
+    "value" : "Cleark@gmail.com"
+  } ],
+  "roles" : [ {
+    "code" : "PROFILES",
+    "description" : "My Profile"
+  }, {
+    "code" : "TRANSACTION",
+    "description" : "TRANSACTION"
+  } ]
+} ]
